@@ -1,2 +1,3 @@
 # UBTrack - 2023 Capstone
-## Enhanced Multi-Object Tracking by Combining ByteTrack and OCSORT
+## UBTrack
+ByteTrack and OCSORT Combined: A Boosted Multi-Object Tracking Approach
